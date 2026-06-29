@@ -1,4 +1,4 @@
-# МИПиС
+# МИПиС 
 ## mod-lab05-life
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-IASR/mod-lab05-life)
